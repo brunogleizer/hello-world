@@ -1,2 +1,2 @@
 # hello-world
-Exercício de Casa 1
+Exercício de Casa 1: utilizando as novas ferramentas GIT.
